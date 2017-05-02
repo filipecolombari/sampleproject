@@ -1,0 +1,295 @@
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android.dll.config
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android.apk
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android-Signed.apk
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\ExifLib.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\ModernHttpClient.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\OkHttp.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Syncfusion.SfChart.Android.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Syncfusion.SfChart.XForms.Android.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Syncfusion.SfChart.XForms.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Pages.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Theme.Android.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Theme.Base.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Theme.Light.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Core.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Forms.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Forms.Droid.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Ioc.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Platform.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Platform.Droid.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Serialization.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.dll.config
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\ModernHttpClient.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Syncfusion.SfChart.Android.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Syncfusion.SfChart.XForms.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Core.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Forms.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Forms.Droid.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Ioc.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Platform.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Platform.Droid.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Serialization.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\XamarinForms.Pim.Android.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\XamarinForms.Pim.Android.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\XamarinForms.Pim.Android.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\bin\XamarinForms.Pim.Android.apk
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\icon.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\values\styles.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\logo.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\splash.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\calendario.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\calendario.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\calendario.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\calendario.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\arrowdown.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\arrowup.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\arrowdown.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\arrowup.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\arrowdown.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\arrowup.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\arrowdown.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\arrowup.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\group.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\lojas.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\setadowntitle.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\setadowntitle.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\setadowntitle.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\setadowntitle.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\setauplista.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\setauplista.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\setauplista.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\setauplista.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\setalistafw.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\setalistafw.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\setalistafw.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\setalistafw.png
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\R.cs.flag
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\uploadflags.txt
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Java.Interop.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Mono.Android.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Mono.Android.Export.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\mscorlib.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Core.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Numerics.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Runtime.Serialization.Xml.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Xml.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\ModernHttpClient.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Runtime.Serialization.Xml.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\XamarinForms.Pim.Android.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\XamarinForms.Pim.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\XamarinForms.Pim.Android.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\XamarinForms.Pim.Android.csprojResolveAssemblyReference.cache
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android.dll.config
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android.apk
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android-Signed.apk
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\ExifLib.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\ModernHttpClient.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\OkHttp.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Syncfusion.SfChart.Android.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Syncfusion.SfChart.XForms.Android.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Syncfusion.SfChart.XForms.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Pages.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Theme.Android.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Theme.Base.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Theme.Light.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Core.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Forms.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Forms.Droid.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Ioc.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Platform.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Platform.Droid.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Serialization.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.dll.config
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\ModernHttpClient.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Syncfusion.SfChart.Android.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Syncfusion.SfChart.XForms.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Core.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Forms.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Forms.Droid.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Ioc.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Platform.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Platform.Droid.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XLabs.Serialization.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\XamarinForms.Pim.Android.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\XamarinForms.Pim.Android.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\bin\XamarinForms.Pim.Android.apk
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\icon.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\values\styles.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\logo.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\splash.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\calendario.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\calendario.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\calendario.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\calendario.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\arrowdown.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\arrowup.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\arrowdown.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\arrowup.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\arrowdown.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\arrowup.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\arrowdown.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\arrowup.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\group.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\lojas.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\setadowntitle.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\setadowntitle.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\setadowntitle.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\setadowntitle.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\setauplista.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\setauplista.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\setauplista.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\setauplista.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable\setalistafw.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-hdpi\setalistafw.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xhdpi\setalistafw.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\res\drawable-xxhdpi\setalistafw.png
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\R.cs.flag
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\uploadflags.txt
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Java.Interop.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Mono.Android.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Mono.Android.Export.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\mscorlib.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Core.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Numerics.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Runtime.Serialization.Xml.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Xml.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\ModernHttpClient.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Runtime.Serialization.Xml.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\XamarinForms.Pim.Android.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\android\assets\XamarinForms.Pim.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\obj\Debug\XamarinForms.Pim.Android.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.Android\bin\Debug\XamarinForms.Pim.Android.dll.mdb

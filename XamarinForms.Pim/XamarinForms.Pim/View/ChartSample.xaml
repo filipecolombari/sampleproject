@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns:chart="clr-namespace:Syncfusion.SfChart.XForms;assembly=Syncfusion.SfChart.XForms"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:local="clr-namespace:XamarinForms.Pim;assembly=XamarinForms.Pim"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinForms.Pim.View.ChartSample">
+
+    <ContentPage.BindingContext>
+
+        <local:ViewModel></local:ViewModel>
+
+    </ContentPage.BindingContext>
+
+    <chart:SfChart VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+
+        <chart:SfChart.Title>
+            <chart:ChartTitle Text="Formas de Pagamento" Font="25" Margin="0,15,15,0"></chart:ChartTitle>
+        </chart:SfChart.Title>
+
+        <chart:SfChart.PrimaryAxis>
+            <chart:CategoryAxis LabelRotationAngle="-90" MaximumLabels="50" ShowMajorGridLines="False" >
+                <chart:CategoryAxis.LabelStyle>
+                    <chart:ChartAxisLabelStyle LabelsPosition="Inside" TextColor="Black" Margin="5"/>
+                </chart:CategoryAxis.LabelStyle>
+            </chart:CategoryAxis>
+        </chart:SfChart.PrimaryAxis>
+
+        <chart:SfChart.SecondaryAxis>
+            <chart:NumericalAxis>
+
+            </chart:NumericalAxis>
+        </chart:SfChart.SecondaryAxis>
+
+        <chart:SfChart.Series>
+            <chart:ColumnSeries ItemsSource="{Binding Path=Data[0]}" XBindingPath="Pagamento" YBindingPath="Valor" EnableTooltip="True" Color="#A1A1A1">
+                <chart:ColumnSeries.TooltipTemplate>
+                    <DataTemplate>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Forma Pagamento"/>
+                            <Label Text="{Binding Pagamento}"/>
+                        </StackLayout>
+                    </DataTemplate>
+                </chart:ColumnSeries.TooltipTemplate>
+            </chart:ColumnSeries>
+        </chart:SfChart.Series>
+
+        <chart:SfChart.ChartBehaviors>
+            <chart:ChartTooltipBehavior BackgroundColor="#A1A1A1" TextColor="Black"/>
+        </chart:SfChart.ChartBehaviors>
+
+    </chart:SfChart>
+</ContentPage>

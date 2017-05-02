@@ -1,0 +1,2 @@
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.UWP\XamarinForms.Pim.UWP.csproj;x86
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim.csproj;neutral

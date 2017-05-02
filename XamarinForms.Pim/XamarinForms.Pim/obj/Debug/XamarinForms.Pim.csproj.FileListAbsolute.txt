@@ -1,0 +1,105 @@
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XamarinForms.Pim.dll.config
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XamarinForms.Pim.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XamarinForms.Pim.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\ExifLib.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\ModernHttpClient.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Syncfusion.SfChart.XForms.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Pages.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Theme.Base.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Theme.Light.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Core.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Forms.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Ioc.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Platform.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Serialization.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Syncfusion.SfChart.XForms.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Core.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Forms.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Ioc.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Platform.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Serialization.xml
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.csproj.App.config
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Login.LoginView.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.App.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Lojas.LojasView.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Lojas.LojasTabbedView.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Grupos.GruposView.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Lojas.LojasOperacoes.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Grupos.GruposOperacoes.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Grupos.GruposFaturamentoLiquido.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Grupos.GruposTicketMedio.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Grupos.RankingOrdenacao.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Lojas.LojasIndicadoresView.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Graficos.TabbedPageView.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Lojas.LojasResumoView.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Lojas.Graficos.GraficoFormasPagamento.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.dll
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.pdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Lojas.Graficos.TopProdutosView.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.Lojas.Graficos.TopGruposView.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.ChartSample.xaml.g.cs
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.dll.mdb
+C:\Users\filip\OneDrive\Documentos\Visual Studio 2017\Projects\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XamarinForms.Pim.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XamarinForms.Pim.dll.config
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XamarinForms.Pim.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XamarinForms.Pim.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\ExifLib.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\ModernHttpClient.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Syncfusion.SfChart.XForms.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Pages.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Theme.Base.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Theme.Light.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Core.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Forms.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Ioc.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Platform.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Serialization.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Syncfusion.SfChart.XForms.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Core.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Forms.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Ioc.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Platform.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XLabs.Serialization.xml
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.csproj.App.config
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.csprojResolveAssemblyReference.cache
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.App.xaml.g.cs
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.View.ChartSample.xaml.g.cs
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.dll
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.pdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XamarinForms.Pim.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\obj\Debug\XamarinForms.Pim.dll.mdb
+C:\Users\filip\Desktop\XamarinForms.Pim\XamarinForms.Pim\XamarinForms.Pim\bin\Debug\XamarinForms.Pim.dll.mdb
